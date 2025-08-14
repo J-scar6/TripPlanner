@@ -1,7 +1,8 @@
 {
-  "name": "Europe Trip Planner",
-  "short_name": "Trip Planner",
-  "start_url": ".",
+  "name": "Trip Planner",
+  "short_name": "TripPlan",
+  "start_url": "/",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#0a0a0a",
